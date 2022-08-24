@@ -1,0 +1,28 @@
+﻿<Page x:Class="Space_Game_1.TwoPlayerGame"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Space_Game_1"
+        mc:Ignorable="d"
+        Title="Brute Fleet" Height="615" Width="540">
+    <Page.Resources>
+        <Style TargetType="Label">
+            <Setter Property="FontSize" Value="18"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Foreground" Value="White"/>
+        </Style>
+    </Page.Resources>
+
+    <Canvas Name="MyCanvas" Focusable="True" Background="Black">
+
+        <Rectangle Name="Player1" Height="65" Width="47" Fill="red" Tag="player1" Canvas.Left="240" Canvas.Top="20"/>
+        <Rectangle Name="Player2" Height="65" Width="47" Fill="lightBlue" Tag="player2" Canvas.Left="240" Canvas.Top="520"/>
+
+        <Label Name="p1LivesText" Content="Player 1 Lives: 0" Canvas.Left="20" Foreground="Red"/>
+        <Label Name="p2LivesText" Content="Player 2 Lives: 0" Canvas.Bottom="20" Canvas.Left="20" Foreground="LightBlue"/>
+        <Label Name="p1AmmoText" Content="Player 1 Ammo: 0" Canvas.Right="20" Foreground="red"/>
+        <Label Name="p2AmmoText" Content="Player 2 Ammo: 0" Canvas.Right="20" Canvas.Bottom="20" Foreground="LightBlue"/>
+        
+    </Canvas>
+</Page>
