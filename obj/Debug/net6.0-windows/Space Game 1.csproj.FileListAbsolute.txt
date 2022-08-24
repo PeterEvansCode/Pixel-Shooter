@@ -1,0 +1,28 @@
+C:\Users\Peter\Source\Repos\AuthorBrotherGames\Pixel-Shooter\bin\Debug\net6.0-windows\Space Game 1.exe
+C:\Users\Peter\Source\Repos\AuthorBrotherGames\Pixel-Shooter\bin\Debug\net6.0-windows\Space Game 1.deps.json
+C:\Users\Peter\Source\Repos\AuthorBrotherGames\Pixel-Shooter\bin\Debug\net6.0-windows\Space Game 1.runtimeconfig.json
+C:\Users\Peter\Source\Repos\AuthorBrotherGames\Pixel-Shooter\bin\Debug\net6.0-windows\Space Game 1.dll
+C:\Users\Peter\Source\Repos\AuthorBrotherGames\Pixel-Shooter\bin\Debug\net6.0-windows\Space Game 1.pdb
+C:\Users\Peter\Source\Repos\AuthorBrotherGames\Pixel-Shooter\obj\Debug\net6.0-windows\Space Game 1.csproj.AssemblyReference.cache
+C:\Users\Peter\Source\Repos\AuthorBrotherGames\Pixel-Shooter\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Peter\Source\Repos\AuthorBrotherGames\Pixel-Shooter\obj\Debug\net6.0-windows\Menu.g.cs
+C:\Users\Peter\Source\Repos\AuthorBrotherGames\Pixel-Shooter\obj\Debug\net6.0-windows\OnePlayerGame.g.cs
+C:\Users\Peter\Source\Repos\AuthorBrotherGames\Pixel-Shooter\obj\Debug\net6.0-windows\TwoPlayerGame.g.cs
+C:\Users\Peter\Source\Repos\AuthorBrotherGames\Pixel-Shooter\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Peter\Source\Repos\AuthorBrotherGames\Pixel-Shooter\obj\Debug\net6.0-windows\Space Game 1_MarkupCompile.cache
+C:\Users\Peter\Source\Repos\AuthorBrotherGames\Pixel-Shooter\obj\Debug\net6.0-windows\Space Game 1_MarkupCompile.lref
+C:\Users\Peter\Source\Repos\AuthorBrotherGames\Pixel-Shooter\obj\Debug\net6.0-windows\App.baml
+C:\Users\Peter\Source\Repos\AuthorBrotherGames\Pixel-Shooter\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Peter\Source\Repos\AuthorBrotherGames\Pixel-Shooter\obj\Debug\net6.0-windows\Menu.baml
+C:\Users\Peter\Source\Repos\AuthorBrotherGames\Pixel-Shooter\obj\Debug\net6.0-windows\OnePlayerGame.baml
+C:\Users\Peter\Source\Repos\AuthorBrotherGames\Pixel-Shooter\obj\Debug\net6.0-windows\TwoPlayerGame.baml
+C:\Users\Peter\Source\Repos\AuthorBrotherGames\Pixel-Shooter\obj\Debug\net6.0-windows\Space Game 1.g.resources
+C:\Users\Peter\Source\Repos\AuthorBrotherGames\Pixel-Shooter\obj\Debug\net6.0-windows\Space Game 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peter\Source\Repos\AuthorBrotherGames\Pixel-Shooter\obj\Debug\net6.0-windows\Space Game 1.AssemblyInfoInputs.cache
+C:\Users\Peter\Source\Repos\AuthorBrotherGames\Pixel-Shooter\obj\Debug\net6.0-windows\Space Game 1.AssemblyInfo.cs
+C:\Users\Peter\Source\Repos\AuthorBrotherGames\Pixel-Shooter\obj\Debug\net6.0-windows\Space Game 1.csproj.CoreCompileInputs.cache
+C:\Users\Peter\Source\Repos\AuthorBrotherGames\Pixel-Shooter\obj\Debug\net6.0-windows\Space Game 1.dll
+C:\Users\Peter\Source\Repos\AuthorBrotherGames\Pixel-Shooter\obj\Debug\net6.0-windows\refint\Space Game 1.dll
+C:\Users\Peter\Source\Repos\AuthorBrotherGames\Pixel-Shooter\obj\Debug\net6.0-windows\Space Game 1.pdb
+C:\Users\Peter\Source\Repos\AuthorBrotherGames\Pixel-Shooter\obj\Debug\net6.0-windows\Space Game 1.genruntimeconfig.cache
+C:\Users\Peter\Source\Repos\AuthorBrotherGames\Pixel-Shooter\obj\Debug\net6.0-windows\ref\Space Game 1.dll
